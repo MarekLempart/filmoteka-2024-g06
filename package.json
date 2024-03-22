@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://MartaTabor.github.io/goit-filmoteka-group6",
+  "homepage": "https://MarekLempart.github.io/filmoteka-2024-g06",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-filmoteka-group6/"
+    "build": "parcel build src/*.html --public-url /filmoteka-2024-g06/"
   },
   "repository": {
     "type": "git",
