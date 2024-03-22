@@ -29,6 +29,8 @@
     "axios": "^1.6.7",
     "firebase": "^10.9.0",
     "firebaseui": "^6.1.0",
-    "notiflix": "^3.2.7"
+    "notiflix": "^3.2.7",
+    "stable": "^0.1.8",
+    "uuid": "^9.0.1"
   }
 }

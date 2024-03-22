@@ -4,7 +4,7 @@ import axios from 'axios';
 // Pobieranie gatunków
 export async function getGenres() {
   return axios.get(
-    `https://api.themoviedb.org/3/genre/movie/list?api_key=c2f18aa0c4ee94c87f87834077fd721a&language=en-EN`,
+    `https://api.themoviedb.org/3/genre/movie/list?api_key=c94d8e5ef8b4fe69956b21ebd01a6f37&language=en-EN`,
   );
 }
 
